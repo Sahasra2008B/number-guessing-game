@@ -103,8 +103,7 @@ Open a Pull Request
 This project is licensed under the MIT License.
 ---
 👨‍💻 Author
-Your Name
-GitHub: @your-username
-Email: your.email@example.com
+B. Sahasra
+GitHub: @Sahasra2008B
 ---
 > Made with ❤️ and a little bit of luck 🎲
